@@ -1,0 +1,38 @@
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{{page.title}} | {{site.title}}</title>
+	<meta property="og:title" content="{{page.title}} | {{site.title}}" /> 
+
+	<meta name="description" content="{{site.description}}">
+	<meta property="og:description" content="{{site.description}}" />
+	<meta property="og:url" content="{{site.github.url}}{{page.url}}" />
+
+		<meta property='og:image' content='{{site.github.url}}/img/brackeys-promo.jpg'/>
+
+	<link rel="stylesheet" href="{{site.github.url}}/css/main.css">
+	<link rel="canonical" href="{{site.github.url}}">
+	<link rel="alternate" type="application/rss+xml" title="{{site.title}}" href="{{site.github.url}}/feed.xml">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+	{% for script in layout.head %}
+		{% include {{ script }} %}
+	{% endfor %}
+
+	{% for style in layout.style %}
+		<link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/{{style}}.css">
+	{% endfor %}
+
+	{% for style in page.style %}
+		<link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/{{style}}.css">
+	{% endfor %}
+
+	{% if jekyll.environment == 'production' %}
+		
+	{% endif %}
+
+</head>

@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Minima also includes a mixin for defining media queries.
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+
+// Import partials
+@import "variables";
+@import "minima";
+@import "buttons";
+@import "header";
+@import "overrides";
+@import "footer";
+
+.home {
+	section {
+		max-width: $home-width;
+	}
+}
+
+.separator {
+	width: 400px;
+	background-color: #3e3e3e;
+	height: 2px;
+	max-width: 960px;
+	margin: auto;
+	margin-bottom: 25px;
+	margin-top: 20px;
+	clear: both;
+	border-radius: 2px;
+}
+
+.patreon {
+	color: #ff8c37 !important;
+}

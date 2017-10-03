@@ -1,0 +1,55 @@
+.computer {
+
+    p {
+        font-size: 24px;
+        line-height: 39px;
+    }
+
+    h3 {
+        padding-top: 10px;
+        font-weight: lighter;
+    }
+
+    h1 {
+        margin: auto;
+        line-height: 60px;
+    }
+
+    .circle-image {
+        height: 330px; /*Specify Height*/
+        width:  330px; /*Specify Width*/
+
+        margin-left: 20px;
+
+        border-radius: 50%;
+        background-color: $darker-background; /*Add a background color to the box*/
+
+        img {
+            display: block;
+            position: relative;
+
+            max-width: none;
+        }
+
+        .computer {
+            top: 20px;
+            left: -32px;
+        }
+    }
+
+    .left {
+        float: left;
+        margin-right: 60px;
+    }
+
+    .text {
+        padding-top: 10px;
+    }
+
+    .button {
+        margin-top: 20px;
+        width: 300px;
+        float: left;
+    }
+
+}

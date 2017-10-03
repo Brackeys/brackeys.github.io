@@ -1,0 +1,13 @@
+.featured-video {
+
+    padding-top: 50px;
+
+    .videoWrapper {
+        iframe {
+            float: right;
+            margin-left: 30px;
+            box-shadow: 2px 2px 20px #232323;
+        }
+    }
+}
+

@@ -1,0 +1,62 @@
+.devassets {
+
+    margin-bottom: 50px;
+
+    p {
+        font-size: 24px;
+        line-height: 39px;
+    }
+
+    h3 {
+        padding-top: 10px;
+        font-weight: lighter;
+    }
+
+    h1 {
+        margin: auto;
+        line-height: 60px;
+    }
+
+    .circle-image {
+        height: 180px; /*Specify Height*/
+        width:  180px; /*Specify Width*/
+
+        margin-top: 50px;
+
+        border-radius: 50%;
+        background-color: $darker-background; /*Add a background color to the box*/
+
+        img {
+            display: block;
+            position: relative;
+
+            max-width: none;
+        }
+
+        .sword {
+            bottom: 60px;
+            left: 30px;
+        }
+    }
+
+    .left {
+        float: left;
+        margin-right: 60px;
+    }
+
+    .left {
+        float: left;
+        margin-right: 60px;
+    }
+
+    .text {
+        padding-top: 5px;
+    }
+
+    .button {
+        margin-top: 27px;
+        margin-left: 240px;
+        width: 300px;
+    }
+
+}
