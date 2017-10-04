@@ -38,5 +38,5 @@ collections:
 
 defaults:
 
-plugins:
+plugins_dir:
   - jekyll-redirect-from

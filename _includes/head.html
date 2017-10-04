@@ -19,6 +19,10 @@
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
+	{% if jekyll.environment == 'production' %}
+		{% include analytics.html %}
+	{% endif %}
+
 	{% for script in layout.head %}
 		{% include {{ script }} %}
 	{% endfor %}
@@ -30,9 +34,5 @@
 	{% for style in page.style %}
 		<link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/{{style}}.css">
 	{% endfor %}
-
-	{% if jekyll.environment == 'production' %}
-		
-	{% endif %}
 
 </head>
