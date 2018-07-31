@@ -6,10 +6,9 @@ permalink: /contact/
 
 If you have any questions the best place to ask them is on the <b><a href="http://forum.brackeys.com/">Brackeys Forum</a></b>.
 
-You can <b>email</b> us at <b>
-<a href="http://www.google.com/recaptcha/mailhide/d?k=01au3jxyKOehWow1NZkzughA==&amp;c=tUpAAyTS3mzELdSM6h_8Hg==" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\x3d01au3jxyKOehWow1NZkzughA\x3d\x3d\x26c\x3dtUpAAyTS3mzELdSM6h_8Hg\x3d\x3d', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address"> reveal email</a>
-</b>
-.
+You can <b>email</b> us at:
+
+<i>at@brackeys.com</i>
 
 We are normally also reachable on Twitter <b><a href="https://twitter.com/brackeystweet/">@BrackeysTweet</a></b>.
 
