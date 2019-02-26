@@ -18,6 +18,4 @@ If you want to support us you can do so on our <b><a class="patreon" href="https
 
 Patreon allows you to donate a monthly amount of your choosing which can be cancelled at any time. It's really the best way to support what we do and we greatly appreciate it!
 
-<b>Address:</b> Rådhusvej 18, 2. tv. - 2920, Charlottenlund - Denmark.
-
-<b>Phone:</b> +45 61711212
+<b>Address:</b> Nørre Farimagsgade 21, kl. - 1364, Copenhagen - Denmark.
