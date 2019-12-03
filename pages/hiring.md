@@ -49,7 +49,7 @@ We are a small team and while the above will be your main responsibilities there
 
 • A solid and general understanding of the YouTube game dev space and a good grip on what makes good and interesting content
 
-• Positive attitued and self-motivation, exceptional at working independently while still functioning in a team environment
+• Positive attitude and self-motivation, exceptional at working independently while still functioning in a team environment
 
 <b>Good to have:</b>
 
