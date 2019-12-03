@@ -13,7 +13,7 @@ permalink: /hiring/
 <br>
 
 <h2>Role description</h2>
-We are looking for a creative mind with game development experience to join the team. We are looking for someone who is not afraid to take on creative responsibility and who is interested in content creation and video production. 
+We are looking for a creative mind with game development experience to join the team. Someone who is not afraid to take on creative responsibility and who is interested in content creation and video production. 
 
 As a content creator at Brackeys you need to have a pro-active drive for exploring new subjects, technical or non-technical, and a strong focus on how to communicate these subjects to others through video content.
 
