@@ -69,7 +69,7 @@ To apply you must be:
 
 • At least 18 years old
 
-We require all applications to be written in Danish.
+We require all applicants to be able to speak Danish but the application must be written in English.
 
 
 <b>Apply here using this <a target="_blank" href="https://forms.gle/u91aHKkySm2TdCP28">FORM</a>.</b>
