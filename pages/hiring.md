@@ -1,8 +1,12 @@
 ---
 layout: page
-title: We're hiring!
+title: Not currently hiring.
 permalink: /hiring/
 ---
+
+<b>We are not currently looking for more applicants.</b>
+
+<br>
 
 <b>Job Title:</b> Content Creator
 
@@ -72,7 +76,7 @@ To apply you must be:
 We require all applicants to be able to speak Danish but your cover letter must be written in English.
 
 
-<b>Apply here using this <a target="_blank" href="https://forms.gle/u91aHKkySm2TdCP28">FORM</a>.</b>
+<b>We are not currently looking for more applicants.</b>
 
 
 
