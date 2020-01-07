@@ -8,7 +8,7 @@ permalink: /hiring/
 
 <br>
 
-<b>Job Title:</b> Content Creator
+<b>Job Title:</b> Content Creator (Position filled)
 
 <b>Location:</b> Copenhagen
 
@@ -66,15 +66,6 @@ We are a small team and while the above will be your main responsibilities there
 <br>
 
 <h2>Apply</h2>
-
-To apply you must be:
-
-• Located in Denmark
-
-• At least 18 years old
-
-We require all applicants to be able to speak Danish but your cover letter must be written in English.
-
 
 <b>We are not currently looking for more applicants.</b>
 
