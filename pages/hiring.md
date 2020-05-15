@@ -1,10 +1,14 @@
 ---
 layout: page
-title: We're hiring!
+title: Not currently hiring.
 permalink: /hiring/
 ---
 
-<b>Job Title:</b> Content Creator
+<b>We are not currently looking for more applicants.</b>
+
+<br>
+
+<b>Job Title:</b> Content Creator (Position filled)
 
 <b>Location:</b> Copenhagen
 
@@ -13,7 +17,7 @@ permalink: /hiring/
 <br>
 
 <h2>Role description</h2>
-We are looking for a creative mind with game development experience to join the team. We are looking for someone who is not afraid to take on creative responsibility and who is interested in content creation and video production. 
+We are looking for a creative mind with game development experience to join the team. Someone who is not afraid to take on creative responsibility and who is interested in content creation and video production. 
 
 As a content creator at Brackeys you need to have a pro-active drive for exploring new subjects, technical or non-technical, and a strong focus on how to communicate these subjects to others through video content.
 
@@ -49,7 +53,7 @@ We are a small team and while the above will be your main responsibilities there
 
 • A solid and general understanding of the YouTube game dev space and a good grip on what makes good and interesting content
 
-• Positive attitued and self-motivation, exceptional at working independently while still functioning in a team environment
+• Positive attitude and self-motivation, exceptional at working independently while still functioning in a team environment
 
 <b>Good to have:</b>
 
@@ -63,16 +67,7 @@ We are a small team and while the above will be your main responsibilities there
 
 <h2>Apply</h2>
 
-To apply you must be:
-
-• Located in Denmark
-
-• At least 18 years old
-
-We require all applications to be written in Danish.
-
-
-<b>Apply here using this <a target="_blank" href="https://forms.gle/u91aHKkySm2TdCP28">FORM</a>.</b>
+<b>We are not currently looking for more applicants.</b>
 
 
 
