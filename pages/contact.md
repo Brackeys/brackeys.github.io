@@ -4,7 +4,7 @@ title: Get in touch!
 permalink: /contact/
 ---
 
-If you have any questions the best place to ask them is on the <b><a href="http://forum.brackeys.com/">Brackeys Forum</a></b>.
+If you have any questions the best place to ask them is on the <b><a href="http://forum.brackeys.com/" target="_blank">Brackeys Forum</a></b>.
 
 You can <b>email</b> us at:
 

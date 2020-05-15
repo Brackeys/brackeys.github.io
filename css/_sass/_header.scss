@@ -12,6 +12,10 @@
 		color: #7488dc !important;
 	}
 
+	.forum {
+		color: #e63d6c !important;
+	}
+
 }
 
 
@@ -70,30 +74,26 @@
 
 }
 
-/* Making the header responsive */
+.site-header {
+	padding: 45px 0;
+	height: 160px;
+}
 
-@media all and (max-width: 1000px)  {
-	.site-header {
-		padding: 45px 0;
-		height: 160px;
-	}
+.site-header .header-limiter img {
+	float: none;
+	margin: -12px 0 10px;
+	text-align: center;
+	font-size: 24px;
+	line-height: 1;
+}
 
-	.site-header .header-limiter img {
-		float: none;
-		margin: -12px 0 10px;
-		text-align: center;
-		font-size: 24px;
-		line-height: 1;
-	}
+.site-header .header-limiter nav {
+	line-height: 1.7;
+	float: none !important;
+}
 
-	.site-header .header-limiter nav {
-		line-height: 1.7;
-		float: none !important;
-	}
-
-	.site-header .header-limiter nav a {
-		font-size: 13px;
-	}
+.site-header .header-limiter nav a {
+	font-size: 13px;
 }
 
 
