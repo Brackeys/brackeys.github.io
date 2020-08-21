@@ -9,13 +9,13 @@
 
 	<meta name="description" content="{{site.description}}">
 	<meta property="og:description" content="{{site.description}}" />
-	<meta property="og:url" content="{{site.github.url}}{{page.url}}" />
+	<meta property="og:url" content="/{{page.url}}" />
 
-		<meta property='og:image' content='{{site.github.url}}/img/brackeys-promo.jpg'/>
+		<meta property='og:image' content='/img/brackeys-promo.jpg'/>
 
-	<link rel="stylesheet" href="{{site.github.url}}/css/main.css">
-	<link rel="canonical" href="{{site.github.url}}">
-	<link rel="alternate" type="application/rss+xml" title="{{site.title}}" href="{{site.github.url}}/feed.xml">
+	<link rel="stylesheet" href="/css/main.css">
+	<link rel="canonical" href="/">
+	<link rel="alternate" type="application/rss+xml" title="{{site.title}}" href="/feed.xml">
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 
@@ -28,11 +28,11 @@
 	{% endfor %}
 
 	{% for style in layout.style %}
-		<link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/{{style}}.css">
+		<link rel="stylesheet" type="text/css" href="/css/{{style}}.css">
 	{% endfor %}
 
 	{% for style in page.style %}
-		<link rel="stylesheet" type="text/css" href="{{site.github.url}}/css/{{style}}.css">
+		<link rel="stylesheet" type="text/css" href="/css/{{style}}.css">
 	{% endfor %}
 
 </head>
