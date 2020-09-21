@@ -1,21 +1,23 @@
 ---
 layout: page
-title: Get in touch!
+title: Thanks for everything
 permalink: /contact/
 ---
 
-If you have any questions the best place to ask them is on the <b><a href="http://forum.brackeys.com/" target="_blank">Brackeys Forum</a></b>.
+After 8 years of running Brackeys we've decided to stop releasing new content.
 
-You can <b>email</b> us at:
+It's been an amazing experience and a huge thank you to everyone who has been part of this wonderful journey.
 
-<i>at@brackeys.com</i>
+All of our content will remain up and the community is still active as ever!
 
-We are normally also reachable on Twitter <b><a href="https://twitter.com/brackeystweet/">@BrackeysTweet</a></b>.
+Thanks for everything!
 
-If you want to support us you can do so on our <b><a class="patreon" href="https://patreon.com/brackeys/">Patreon page</a></b>.
+The Brackeys Team
 
-<a href="https://www.patreon.com/bePatron?u=3340404" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+-----------------------------
 
-Patreon allows you to donate a monthly amount of your choosing which can be cancelled at any time. It's really the best way to support what we do and we greatly appreciate it!
+If you have any technical questions the best place to ask them is on the <b><a href="http://forum.brackeys.com/" target="_blank">Brackeys Forum</a></b>.
 
-<b>Address:</b> Nørre Farimagsgade 21, kl. - 1364, Copenhagen - Denmark.
+We also recommend you join the wonderful <b><a href="https://discord.gg/brackeys" target="_blank">Brackeys Community Discord Server</a></b> where we'll still be hosting events such as the <b>Brackeys Game Jam</b>.
+
+You can also get notified about community events on Twitter <b><a href="https://twitter.com/brackeystweet/">@BrackeysTweet</a></b>.
