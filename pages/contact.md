@@ -19,5 +19,3 @@ Kind regards,
 Asbjørn Thirslund,
 
 Brackeys
-
------------------------------
