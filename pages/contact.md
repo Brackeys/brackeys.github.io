@@ -16,6 +16,8 @@ For business related matters ONLY please contact:
 
 Kind regards,
 
-Asbjørn Thirslund, Brackeys
+Asbjørn Thirslund,
+
+Brackeys
 
 -----------------------------
